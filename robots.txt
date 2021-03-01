@@ -1,0 +1,5 @@
+
+User-agent:*
+Disallow:
+
+Sitemap: https://krisjones91.github.io/blogsitemap.xml
